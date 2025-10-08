@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nicolavivarelli/Desktop/CS 425 - Computer Grapihcs/Assignments/assignment-2-nicolavivarelli01",
+      "program": "/Users/nicolavivarelli/Desktop/CS 425 - Computer Grapihcs/Assignments/assignment-2-nicolavivarelli01/build/Debug/outDebug"
+    }
+  ]
+}
